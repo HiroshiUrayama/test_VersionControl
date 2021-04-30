@@ -10,5 +10,5 @@ Attribute VB_Exposed = True
 Option Explicit
 
 Private Sub Workbook_Open()
-    Worksheet(1).Range("A1").Value = 1
+    Me.Worksheets(1).Range("A1").Value = 1
 End Sub
