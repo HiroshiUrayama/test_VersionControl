@@ -2,5 +2,5 @@ Attribute VB_Name = "Module1"
 Option Explicit
 
 Private Sub test()
-    MsgBox "ƒeƒXƒg‚Å‚·I"
+    MsgBox "ãƒ†ã‚¹ãƒˆã§ã™ï¼"
 End Sub
